@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Managed Blockchain on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-managed-blockchain/</link>
+    <description>Recent content in Amazon Managed Blockchain on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-managed-blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon Managed Blockchain</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-managed-blockchain/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-managed-blockchain/</guid>
+      <description>Amazon Managed Blockchain フルマネージドなブロックチェーンネットワークサービスです。Hyperledger FabricやEthereumを使用して、信頼された中央機関が必要ない複数の当事者がトランザクションを実行できるアプリケーションを構築できます。
+Amazon Managed Blockchain はフルマネージド型のサービスで、一般的なオープンソースフレームワークである Hyperledger Fabric や Ethereum を使用して、スケーラブルなブロックチェーンネットワークの作成と管理を簡単に行えます。Amazon Managed Blockchain は、ネットワークの作成に必要とされていたオーバーヘッドを削減し、無数のトランザクションを実行している何千ものアプリケーションからの要求に対処できるよう、自動的にスケールアップします。ネットワークを起動して実行すると、Managed Blockchain がブロックチェーンネットワークの管理と維持を簡素化します。Managed Blockchain は、ユーザーの証明書を管理してネットワークに参加する新しいメンバーを簡単に招待できるようにしたり、コンピューティング、メモリ、ストレージリソースの使用状況といったオペレーションメトリクスの追跡を行ったりします。</description>
+    </item>
+    
+  </channel>
+</rss>

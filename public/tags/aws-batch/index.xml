@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Batch on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-batch/</link>
+    <description>Recent content in AWS Batch on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-batch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Batch</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-batch/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-batch/</guid>
+      <description>AWS Batch バッチ処理を実行できるサービスです。サーバー不要・処理の実行という点でLambdaと似ているが、Lambdaにはリクエストあたりの最大実行時間が900秒という制限があるため、時間のかかる処理や複雑な処理をしたい時に使用する。処理は ジョブ という単位で登録し、ECSコンテナクラスターで実行される。
+優先付け AWS Batchは完全に管理されたバッチ処理サービスであり、異種コンピューティング環境で優先度キューの実行を制御してくれます。ジョブはジョブキューに送信され、コンピューティング環境で実行するようにスケジュールされるまで、ジョブキューに留まります。AWS BatchによってAWS アカウントは、複数のジョブキューを持つことができます。たとえば、優先度の高いジョブには Amazon EC2 オンデマンドインスタンスを使用するキューを作成し、優先度の低いジョブには Amazon EC2 スポットインスタンスを使用する別のキューを作成できます。ジョブキューには優先順位があり、この順位に基づいてスケジューラはどのキューのどのジョブを最初に実行するかを判断します。</description>
+    </item>
+    
+  </channel>
+</rss>

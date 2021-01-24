@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学習メモ on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/%E5%AD%A6%E7%BF%92%E3%83%A1%E3%83%A2/</link>
+    <description>Recent content in 学習メモ on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 10:07:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/%E5%AD%A6%E7%BF%92%E3%83%A1%E3%83%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-index/</link>
+      <pubDate>Sun, 24 Jan 2021 10:07:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-index/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

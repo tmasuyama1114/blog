@@ -3,6 +3,366 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://examplesite.com/tags/aws/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-opsworks/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/aws-sap/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-opsworks/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/sap/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB/</loc>
+    <lastmod>2021-01-24T14:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-ec2/</loc>
+    <lastmod>2021-01-24T14:06:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ec2/</loc>
+    <lastmod>2021-01-24T14:06:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/ami/</loc>
+    <lastmod>2021-01-24T12:16:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ami/</loc>
+    <lastmod>2021-01-24T12:16:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-dynamodb/</loc>
+    <lastmod>2021-01-24T12:15:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-dynamodb/</loc>
+    <lastmod>2021-01-24T12:15:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-api-gateway/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-cloudfront/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-ecs/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-efs/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-kinesis-video-streams/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-managed-blockchain/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-mechanical-turk/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-qldb/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-redshift/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-s3/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-simple-notification-service/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/amazon-simple-queue-service/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-batch/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-cloudformation/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-codebuild/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-direct-connect/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-glue/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-lambda/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-organizations/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-serverless-application-repository/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-shield/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-single-sing-on/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-step-functions/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-storage-gateway/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/aws-systems-manager/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-api-gateway/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-cloudfront/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ecs/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-efs/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-kinesis-video-streams/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-managed-blockchain/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-mechanical-turky/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-qldb/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-redshift/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-s3/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sns/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sqs/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-batch/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-cloudformation/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-code-build/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-direct-connect/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-glue/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-lambda/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-organizations/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-serverless-application-repository/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-shiled/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sso/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-step-functions/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-storagee-gateway/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-systems-manager/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-elb/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-sap-memo-xx/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/elastic-load-balancing/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/xx/</loc>
+    <lastmod>2021-01-24T12:14:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-index/</loc>
+    <lastmod>2021-01-24T10:07:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/%E5%AD%A6%E7%BF%92%E3%83%A1%E3%83%A2/</loc>
+    <lastmod>2021-01-24T10:07:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/%E6%A8%A1%E8%A9%A6/</loc>
+    <lastmod>2021-01-24T10:07:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://examplesite.com/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -18,22 +378,12 @@
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://examplesite.com/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://examplesite.com/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/categories/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
@@ -154,11 +504,6 @@
   
   <url>
     <loc>https://examplesite.com/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://examplesite.com/tags/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Glue on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-glue/</link>
+    <description>Recent content in AWS Glue on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-glue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Glue</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-glue/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-glue/</guid>
+      <description>AWS Glue フルマネージドなETL（Extract、Transform、Load）サービスです。RDSやS3といったデータソースをクロールしてデータカタログを構築、次にETL処理をジョブとしてトリガ登録（スケジュール／連結／オンデマンド）することで処理を実行できます。
+スケジュールジョブの実行 AWS Glueは大量のデータセットを効果的に処理でき、コーディング要件をほとんど、または全く必要とせずに変換を処理できる完全なサーバーレスETLフレームワークであり、インポートファイルの処理に利用することができます。 AWS Glueのインポートが完了すると、AWS Batchプロセスをトリガーできます。これにより、インポートされたデータに基づいてルートスケジューリングジョブを呼び出すことができます。</description>
+    </item>
+    
+  </channel>
+</rss>

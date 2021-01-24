@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon API Gateway on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-api-gateway/</link>
+    <description>Recent content in Amazon API Gateway on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-api-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon API Gateway</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-api-gateway/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-api-gateway/</guid>
+      <description>Amazon API Gateway Lambda オーソライザー Lambda オーソライザーは、Lambda 関数を使用して API へのアクセスを制御する API Gateway の機能です。 Lambda オーソライザーは、OAuth や SAML などのベアラートークン認可戦略を使用する、または発信者 ID を判断するためにリクエストパラメータを使用するカスタム認証スキームを実装する場合に利用します。クライアントが API のメソッドの 1 つにリクエストを送信すると、API Gateway は Lambda オーソライザーを呼び出します。これは発信者 ID を入力として受け取り、IAM ポリシーを出力として返します。 Lambda オーソライザーには 2 種類あります。</description>
+    </item>
+    
+  </channel>
+</rss>

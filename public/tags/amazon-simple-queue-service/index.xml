@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Simple Queue Service on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-simple-queue-service/</link>
+    <description>Recent content in Amazon Simple Queue Service on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-simple-queue-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon Simple Queue Service</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sqs/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sqs/</guid>
+      <description>Amazon Simple Queue Service キューの種類 例えばオークションの買い手と売り手からのトランザクションが、受け取った順序どおりに処理される必要があるとき、SQSに対してFIFOなどのメッセージ処理機能を組み合わせることが有効です。
+また、メッセージグループIDはFIFO配信を支援する機能です。これによって、 同じメッセージグループに属するメッセージは、常にメッセージグループに対して厳密な順序で1つずつ処理されます。
+可視性タイムアウト 可視性タイムアウトは、この設定時間内に他のコンシューマーが同じメッセージを受信したり処理したりすることはできません。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon ECS on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-ecs/</link>
+    <description>Recent content in Amazon ECS on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-ecs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon ECS</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ecs/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ecs/</guid>
+      <description>Amazon ECS ECS と IAM ロール Amazon ECS タスク実行には IAM ロールを使用します。Amazon ECS コンテナエージェントはユーザーに代わって Amazon ECS API を呼び出すため、エージェントがユーザーに属していることをサービスに伝えるために、IAM ポリシーおよびロールが必要です。この IAM ロールはタスク実行 IAM ロールと呼ばれ、様々な目的の複数のタスク実行ロールをアカウントに関連付けることができます。</description>
+    </item>
+    
+  </channel>
+</rss>

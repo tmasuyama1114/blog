@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Direct Connect on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-direct-connect/</link>
+    <description>Recent content in AWS Direct Connect on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-direct-connect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Direct Connect</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-direct-connect/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-direct-connect/</guid>
+      <description>AWS Direct Connect Link Aggregation Group Link Aggregation Control Protocol (LACP) を使用して、1 つの AWS Direct Connect エンドポイントに複数の接続を集約し、それらを 1 つのマネージド型接続として扱うことを可能にする論理インターフェイスです。既存の接続から LAG を作成するには、それらの接続は同じ AWS デバイス上にあり、同じ帯域幅を使用する必要があります。接続を削除することにより、元の LAG で使用できる接続の最小数の設定を下回る場合、既存の LAG から接続を移行することはできません。 また、LAGは最大4つの接続が許可されます。</description>
+    </item>
+    
+  </channel>
+</rss>

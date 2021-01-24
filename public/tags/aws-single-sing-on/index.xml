@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Single Sing-On on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-single-sing-on/</link>
+    <description>Recent content in AWS Single Sing-On on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-single-sing-on/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Single Sign-On</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sso/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sso/</guid>
+      <description>AWS Single Sign-On 既存ユーザーIDEAをAWS外で管理している場合 AWS アカウントに IAM ユーザーを作成する代わりに、IAM ID プロバイダーを利用できます。ID プロバイダー (IdP) を使用すると、AWS の外部のユーザー ID を管理して、これらの外部ユーザー ID にアカウント内の AWS リソースに対するアクセス許可を与えることができます。</description>
+    </item>
+    
+  </channel>
+</rss>

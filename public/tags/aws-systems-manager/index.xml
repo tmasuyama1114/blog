@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Systems Manager on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-systems-manager/</link>
+    <description>Recent content in AWS Systems Manager on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-systems-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Systems Manager</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-systems-manager/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-systems-manager/</guid>
+      <description>AWS Systems Manager ステートマネージャー 安全でスケーラブルな設定管理サービスであり、Amazon EC2 およびハイブリッドインフラストラクチャを、定義された状態に保つプロセスを自動化します。シェルスクリプトによって、午前0:00にCE2インスタンスからS3バケットにログを取得する設定が可能です。
+Patch Manager セキュリティ関連のアップデートと他のタイプのアップデートの両方でマネージドインスタンスにパッチを適用するプロセスを自動化します。スクリプトまたはコマンドを実行するツールではありません。</description>
+    </item>
+    
+  </channel>
+</rss>

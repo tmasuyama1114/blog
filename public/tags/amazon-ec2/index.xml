@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon EC2 on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-ec2/</link>
+    <description>Recent content in Amazon EC2 on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 14:06:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-ec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon EC2</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ec2/</link>
+      <pubDate>Sun, 24 Jan 2021 14:06:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-ec2/</guid>
+      <description>Amazon EC2 ハードコードされたIPの扱い ハードコードされたIPアドレスを有するEC2インスタンスに導入されているシステムのフェールオーバーを実現する場合を考えます。
+ハードコードされたIPアドレスを利用しているため、フェールオーバー先のインスタンスと既存インスタンスで同じIPアドレスを利用することになります。そのためには、IPアドレスごと移動する方法が必要となるため、対応としてはElastic Network Interface（ENI）を活用します。ENIは、仮想ネットワークカードを表す VPC 内の論理ネットワーキングコンポーネントです。
+セカンダリーENIを作成し、フェールオーバー用インスタンスに移動できるようにする セカンダリーネットワークインターフェイスは実行中であっても、インスタンスからデタッチされ、別のインスタンスに再アタッチすることができます。その際はIPアドレスなどの属性を継続的に利用できます。したがって、ネットワークインターフェイスをあるインスタンスから別のインスタンスに移動すると、ネットワークトラフィックは新しいインスタンスにリダイレクトされます。</description>
+    </item>
+    
+  </channel>
+</rss>

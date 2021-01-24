@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Simple Notification Service on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-simple-notification-service/</link>
+    <description>Recent content in Amazon Simple Notification Service on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-simple-notification-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon Simple Notification Service</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sns/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-sns/</guid>
+      <description>Amazon Simple Notification Service サブスクリプション不要時の対応 サブスクリプションが不要になった場合は、まずトピックからのサブスクリプション解除を行います。これによってマネージャー向けのサブスクリプション設定を削除することができます。SNSトピックから該当ユーザーのサブスクリプションを削除すると、ユーザーが通知を受け取ることはありません。
+また、ユーザー自身で解除することも可能です。通知には、ユーザーへの通知にはユーザーが直接使用可能な購読解除URLが付与されており、このURLからユーザー自身で購読を解除する設定を操作することが可能です。</description>
+    </item>
+    
+  </channel>
+</rss>

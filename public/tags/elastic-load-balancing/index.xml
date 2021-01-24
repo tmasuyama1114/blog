@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elastic Load Balancing on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/elastic-load-balancing/</link>
+    <description>Recent content in Elastic Load Balancing on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/elastic-load-balancing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Elastic Load Balancing</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-elb/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-elb/</guid>
+      <description>Elastic Load Balancing CLB ルーティングの分散 Classic Load Balancer では、Cookie を使用して、特定の Amazon EC2 インスタンスにユーザーセッションを接続する機能をサポートしています。ユーザーがアプリケーションにアクセスし続ける限り、トラフィックは同じインスタンスにルーティングされます。セッションをインスタンスにマッピングするために使用されるAWSELBという名前のCookieを作成して、スティッキーセッションを実行します。</description>
+    </item>
+    
+  </channel>
+</rss>

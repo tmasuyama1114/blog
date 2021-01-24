@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon QLDB on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-qldb/</link>
+    <description>Recent content in Amazon QLDB on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-qldb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon QLDB</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-qldb/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-qldb/</guid>
+      <description>Amazon QLDB フルマネージドな台帳データベースサービスです。データの変更履歴はイミュータブルに保持され、履歴が正当であることを暗号的に検証できます。またPartiQLをサポートしているためSQLライクに操作が可能。
+Managed Blockchain との併用 Amazon QLDB) と Amazon Managed Blockchain は、各ジョブに最適なツールを提供します。完全に管理されたこれらのサービスは、完全な監査可能性を必要とするビジネス取引を管理する際に企業を支援し、台帳データベースの実装と管理、およびブロックチェーンネットワークの作成と管理にまつわる複雑で未分化の厄介な作業を解消します。</description>
+    </item>
+    
+  </channel>
+</rss>

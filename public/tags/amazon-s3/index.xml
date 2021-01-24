@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon S3 on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/amazon-s3/</link>
+    <description>Recent content in Amazon S3 on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/amazon-s3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - Amazon S3</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-s3/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-s3/</guid>
+      <description>Amazon S3 CLIオプション AWS CLIを利用してS3の大きな項目リストを返すコマンドを実施する場合、3 つのオプションを利用することができます。それらを利用して、AWS CLI がサービスの API を呼び出してリストを生成するときに出力に含まれる項目の数を制御できます。 デフォルトでは、AWS CLI は 1,000 のページサイズを使用して、利用可能な全ての項目を取得します。</description>
+    </item>
+    
+  </channel>
+</rss>

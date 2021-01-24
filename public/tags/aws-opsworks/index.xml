@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS OpsWorks on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-opsworks/</link>
+    <description>Recent content in AWS OpsWorks on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 14:10:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-opsworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS OpsWorks</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-opsworks/</link>
+      <pubDate>Sun, 24 Jan 2021 14:10:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-opsworks/</guid>
+      <description>AWS OpsWorks ライフサイクルイベント AWS OpsWorks Stacks の各 Layer には、5 つの一連のライフサイクルイベントがあり、それぞれのイベントに、その Layer に固有の一連のレシピが関連付けられます。 レイヤーのインスタンスでイベントが発生すると、一連の適切なレシピが AWS OpsWorks スタックによって自動的に実行されます。</description>
+    </item>
+    
+  </channel>
+</rss>

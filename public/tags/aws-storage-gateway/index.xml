@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Storage Gateway on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-storage-gateway/</link>
+    <description>Recent content in AWS Storage Gateway on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-storage-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Storage Gateway</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-storagee-gateway/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-storagee-gateway/</guid>
+      <description>AWS Storage Gateway 種類 ファイルゲートウェイ ファイルゲートウェイ は、Amazon Simple Storage Service (Amazon S3) へのファイルインターフェイスをサポートし、サービスと仮想ソフトウェアアプライアンスを組み合わせます。この組み合わせを使用すると、ネットワークファイルシステム (NFS) やサーバーメッセージブロック (SMB) などの業界標準のファイルプロトコルを使用して、Amazon S3 でオブジェクトを保存および取得できます。ソフトウェアアプライアンス(ゲートウェイ)は、オンプレミス環境に仮想マシン(VM)として導入され、 VMware ESXi、Microsoft Hyper-V、Linux Kernelベースの仮想マシン(KVM)ハイパーバイザー。ゲートウェイは、S3 内のオブジェクトへのアクセスをファイルまたはファイル共有のマウントポイントとして提供します。</description>
+    </item>
+    
+  </channel>
+</rss>

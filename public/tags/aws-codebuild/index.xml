@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS CodeBuild on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-codebuild/</link>
+    <description>Recent content in AWS CodeBuild on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-codebuild/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS CodeBuild</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-code-build/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-code-build/</guid>
+      <description>AWS CodeBuild シナリオ例 毎週定期的にビルドを実行するようにCodeBuildをスケジュールして、このスケジュールされたビルドに使用される定数をCodeBuildに渡す設定方法があります。
+例えば、毎晩午後8時にCodeBuildプロジェクトビルドをスケジュールするルールを作成するには以下のような手順を実施します。
+ https://console.aws.amazon.com/cloudwatch/ でCloudWatchコンソールを開きます。 ナビゲーションペインで、[イベント]、[ルールの作成]を選択します。 イベントソースの場合は次の手順を実行します。    a.</description>
+    </item>
+    
+  </channel>
+</rss>

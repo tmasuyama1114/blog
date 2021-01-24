@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Step Functions on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-step-functions/</link>
+    <description>Recent content in AWS Step Functions on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-step-functions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Step Functions</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-step-functions/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-step-functions/</guid>
+      <description>AWS Step Functions タスクとステートマシンの概念に基づく、分散アプリケーションとマイクロサービスを調整するワークフローサービスです。ワークフローには標準とExpressの2タイプが提供されています。ドメインロジックはLambda関数やAWSサービス、またはEC2やECSを使用して定義します。また、ワークフロー全体はステートマシンとして、JSONベースの言語、ASL（Amazon States Language）を使用して定義します。
+Expressワークフロー AWS Step Functions Expressワークフローは、AWS Step Functions ワークフローの新しいワークフロータイプです。これにより、AWS のコンピューティング、データベース、メッセージングサービスを毎秒 100,000 件を超えるイベントレートでコスト効率よく調整できます。Express Workflow は、Amazon API Gateway を介した HTTP リクエスト、AWS Lambda リクエスト、AWS IoT ルールエンジンのアクション、および Amazon EventBridge の 100 件以上の AWS および SaaS イベントソースなどのイベントに応じて、自動的に開始されます。Express Workflows は、IoT データの取り込み、ストリーミングデータの処理と変換、大量のマイクロサービスオーケストレーションなどの大量のイベント処理ワークロードに適しています。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Liva | Personal blog template</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="AWS-SAP の模擬試験を受けての復習メモ">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Hugo 0.80.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://examplesite.com/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://examplesite.com/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://examplesite.com/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://examplesite.com/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://examplesite.com/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://examplesite.com/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://examplesite.com/images/favicon.png " type="image/x-icon">
+
+  <!-- google analitycs -->
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'Your ID', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://examplesite.com"><img class="img-fluid"
+          src="https://examplesite.com/images/logo.png" alt="Liva | Personal blog template"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu h3"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-facebook"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-twitter-alt"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-instagram"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-github"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-linkedin"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://examplesite.com"><img class="img-fluid"
+            src="https://examplesite.com/images/logo.png" alt="Liva | Personal blog template"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://examplesite.com/about">About</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://examplesite.com/blog">Post</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://examplesite.com/contact">Contact</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://examplesite.com/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        
+        <a href="/categories/aws-sap"
+          class="text-primary">A w s s a p</a>
+        
+        <h2>AWS-SAP 模試メモ - AWS CloudFormation</h2>
+        <div class="mb-3 post-meta">
+          <span>By Themefisher</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>24 January 2021</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <h1 id="aws-cloudfront">AWS CloudFront</h1>
+<h2 id="パラメータ設定方法">パラメータ設定方法</h2>
+<p>AWS::Lambda::Functionを利用して、Lambda 関数のデプロイパッケージをCloudFormationで参照します。すべてのランタイムに対して、Amazon S3 内のオブジェクトの場所を指定できます。</p>
+<p>※Lambda関数コードをコードレポジトリーに保存し、CloudFormationのAWS :: Lambda :: Functionにおいて参照するといった設定方法はありません</p>
+<p>また、Node.js および Python 関数の場合で依存関係がない限りテンプレートにインラインで関数コードを指定できます。</p>
+<h2 id="テンプレート管理">テンプレート管理</h2>
+<h2 id="スタックセット">スタックセット</h2>
+<p>スタックセットでは、1 つの AWS CloudFormation テンプレートを使用して、複数のリージョンの AWS アカウントにスタックを作成できます。各スタックに含まれるリソースはすべて、スタックセットの AWS CloudFormation テンプレートで定義されます。スタックセットを作成する際、使用するテンプレートに加え、そのテンプレートで必要なパラメータや機能を指定します。</p>
+<h4 id="全アカウントのテンプレート更新">全アカウントのテンプレート更新</h4>
+<p>CloudFormationのスタックセットを使用し、数のAWSアカウントやリージョンを横断したリソース展開が可能です。</p>
+<p>CloudFormation テンプレート内に AWS リソースの設定を定義すると、数クリックで複数の AWS アカウントやリージョンにAWSリソースを水平展開できます。クロスアカウントやクロスリージョンのシナリオを解決する AWS 機能のベースラインレベルのセットアップに、この機能を活用できます。一度セットアップしてしまえば、追加のアカウントやリージョンに対しても容易に展開することができます。この機能は、常にクロスアカウントベースで動作します。管理者のアカウントによって、1つ以上のスタックセットが保持されるとともに1つ以上の対象アカウントへのデプロイが制御されます。</p>
+<h4 id="変更セット">変更セット</h4>
+<p>スタックを更新する必要がある場合は、変更の実装前に実行中のリソースに与える影響を理解することで、安心してスタックを更新できます。変更セットを使用すると、スタックの変更案が実行中のリソースに与える可能性がある影響 (たとえば、変更によって重要なリソースが削除されたり置き換えられたりしないか) を確認できます。変更セットの実行を確定したときのみ AWS CloudFormation によってスタックが変更されるため、変更案のまま続行するか別の変更セットを作成して他の変更を検討するかを決定できます。変更セットは、AWS CloudFormation コンソール、AWS CLI、または AWS CloudFormation API を使用して作成できます。</p>
+<h4 id="他リージョンへの展開">他リージョンへの展開</h4>
+<p>各リージョンでは、リージョン内のみで利用可能な異なるAMI IDを有しています。そのため、CloudFormationテンプレートにおけるMappingsとFindInMapを利用して、リージョン毎に適切なAMI IDを選択して構成することが必要です。</p>
+<p>各リージョンへの展開を実施するためには、管理者アカウントのすべてのユーザーとグループに、そのアカウントで管理されているすべてのスタックセットを作成および更新するアクセス権限を付与することが必要です。そのためには、管理者とすべてのターゲットアカウントの IAM ロールを作成します。管理者アカウントへのアクセス権限を持つユーザーは、ターゲットアカウントの任意のスタックセットを作成、更新、または削除するアクセス権限を持ちます。</p>
+<h2 id="各種パラメータ">各種パラメータ</h2>
+<h4 id="creation-policy">Creation Policy</h4>
+<p>Amazon EC2およびAuto Scalingリソースの場合、WaitConditionの代わりにCreationPolicy属性を使用することが最適です。CreationPolicy 属性をリソースに関連付けて、AWS CloudFormation が指定数の成功シグナルを受信するかまたはタイムアウト期間が超過するまでは、ステータスが作成完了にならないようにします。スタックの作成に進む前にリソース設定アクションを待機する場合は、CreationPolicy 属性を使用します。たとえば、EC2 インスタンスにソフトウェアアプリケーションをインストールして設定する際に、先に進む前にこのアプリケーションを起動して実行する場合があります。このような場合、インスタンスに CreationPolicy 属性を追加すると、アプリケーションがインストールされ設定された後に、インスタンスに成功シグナルを送信します。</p>
+<h4 id="waitcondition">WaitCondition</h4>
+<p>AWS::CloudFormation::WaitConditionを利用して、リソースを待機させることができます。しかし、Amazon EC2 および Auto Scaling リソースについては、WaitConditionではなく CreationPolicy 属性を使用することがAWSで推奨されており、最適な選択ではありません。</p>
+<h4 id="ref">!Ref</h4>
+<p>!Refは組み込み関数を使用し、指定したパラメータまたはリソースに関する情報をリターンします。</p>
+
+        </div>
+
+        
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2>Join Our Newsletter</h2>
+        <p class="text-light px-md-5 py-4 border-left border-right border-primary">
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+        <form action="#" class="row justify-content-center">
+          <div class="input-group col-md-8">
+            <input type="text" class="form-control" placeholder="Your Email Address">
+            <div class="input-group-append">
+              <button class="input-group-text btn btn-primary">Subscribe</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<footer>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center mb-5">
+        <a href="https://examplesite.com"><img src="https://examplesite.com/images/logo.png" alt="Liva | Personal blog template"></a>
+      </div>
+               
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Contact Me</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="tel:0124857985320"><i
+                class="ti-mobile mr-3 text-primary"></i>0124857985320</a></li>
+          
+                     
+          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>Dhaka, Bangladedsh</li>
+          
+                     
+          <li class="mb-3"><a class="text-dark" href="mailto:demo@email.com"><i
+                class="ti-email mr-3 text-primary"></i>demo@email.com</a>
+          
+          </li>
+        </ul>
+      </div>
+      
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Social Contacts</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="#">facebook</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">twitter</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">instagram</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">github</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">linkedin</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Categories</h6>
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/android-and-gaming">Android and gaming</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/aws-sap">Aws sap</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/go-language">Go language</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/html">Html</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/html-css">Html css</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/programming-language">Programming language</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/python">Python</a>
+          </li>
+          <li class="mb-3"><a class="text-dark"
+              href="/categories/web-design">Web design</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Quick Links</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="https://examplesite.com/about">About</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://examplesite.com/blog">Post</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://examplesite.com/contact">Contact</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-12 border-top py-4 text-center">
+        | copyright © 2020 <a href="https://themefisher.com">Themefisher</a> All Rights Reserved |
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  var indexURL = "https://examplesite.com/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://examplesite.com/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://examplesite.com/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://examplesite.com/plugins/slick/slick.min.js"></script>
+
+<script src="https://examplesite.com/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://examplesite.com/plugins/search/fuse.min.js"></script>
+
+<script src="https://examplesite.com/plugins/search/mark.js"></script>
+
+<script src="https://examplesite.com/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://examplesite.com/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+</html>

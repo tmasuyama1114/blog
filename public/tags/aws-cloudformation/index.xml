@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS CloudFormation on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-cloudformation/</link>
+    <description>Recent content in AWS CloudFormation on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-cloudformation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS CloudFormation</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-cloudformation/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-cloudformation/</guid>
+      <description>AWS CloudFront パラメータ設定方法 AWS::Lambda::Functionを利用して、Lambda 関数のデプロイパッケージをCloudFormationで参照します。すべてのランタイムに対して、Amazon S3 内のオブジェクトの場所を指定できます。
+※Lambda関数コードをコードレポジトリーに保存し、CloudFormationのAWS :: Lambda :: Functionにおいて参照するといった設定方法はありません</description>
+    </item>
+    
+  </channel>
+</rss>

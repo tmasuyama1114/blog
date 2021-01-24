@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Shield on Liva | Personal blog template</title>
+    <link>https://examplesite.com/tags/aws-shield/</link>
+    <description>Recent content in AWS Shield on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 12:14:47 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/aws-shield/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS-SAP 模試メモ - AWS Shield</title>
+      <link>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-shiled/</link>
+      <pubDate>Sun, 24 Jan 2021 12:14:47 +0900</pubDate>
+      
+      <guid>https://examplesite.com/blog/aws-certification/aws-sap/aws-sap-memo-shiled/</guid>
+      <description>AWS Shield AWS Shield はマネージド型の分散サービス妨害 (DDoS) に対する保護サービスで、AWS で実行しているアプリケーションを保護します。しかしながら、別途設定することなく、 AWS リソースは、自動的に AWS Shield Standardが設定されており、最も頻繁に発生する一般的なネットワークおよびトランスポートレイヤーの DDoS 攻撃から保護されます。Amazon Route 53、Amazon CloudFront、Elastic Load Balancingなどのサービスは、AWS Sheild、AWSで実行されているウェブアプリケーションを保護するために常時オンの検出と自動インライン緩和を提供するマネージDDoS保護サービスと統合します。</description>
+    </item>
+    
+  </channel>
+</rss>
